@@ -1,0 +1,65 @@
+{
+  "cookies": [
+    {
+      "name": "locale",
+      "value": "en",
+      "domain": "proex.qianqianshijie.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "publicKey",
+      "value": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEApjUB9WX2yBrC23E%2BZwAjbJQl%2BOzVWk9oGzifqsRAVqJ%2F49FK7cUZcvbairEArHawdEmUZVN0kbQLiU4FA%2Brndw1NhvEPaAes1PUD6NtCrI2xNLA3rIL6LEWvOUyDZoGpKhB0NURy3zGFtESUpqD7QJf7fIUqJ2H0LWHmVZPlAccysxlj8LM3EH0ILhY8jJhcJL5vHvqioS3UNKrpA%2BGoV3evr5JyRxoI9FggYcVmwzeRMmHFvTL5QfVu5tHjjkjed%2BsB%2FQJxeHhHDEV33b%2Beu5%2FXHFl04MIiza9K%2FkGsCZUGwUgnVwc0NZ%2BAjm%2B4QrnOvhOFGSbMzglaWJLQTYHWzQIDAQAB",
+      "domain": "proex.qianqianshijie.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "userId",
+      "value": "412747",
+      "domain": "proex.qianqianshijie.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "accessToken",
+      "value": "eyJhbGciOiJIUzUxMiJ9.eyJqdGkiOiJlZWIzZTUzOS01Yzg2LTRhNTgtYjZjNC1jN2E5NzNkMjVhOWYiLCJpYXQiOjE3NDg1MTAxODAsInN1YiI6IntcInVpZFwiOlwiNDEyNzQ3XCIsXCJjbGllbnRUeXBlXCI6XCJwY1wiLFwiY2xpZW50SWRcIjpcInBjXCJ9IiwiZXhwIjoxNzQ4NTUzMzgwfQ.PDzbsUrWfc1RKvROmIWFSivIu7d41iHG1F0sDEuLOA3l5-nVTkpcHkItCzj0Tz-rqXRHGbonkrgV0nLFXHJD7g",
+      "domain": "proex.qianqianshijie.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "refreshToken",
+      "value": "eyJhbGciOiJIUzUxMiJ9.eyJqdGkiOiIwMjVkNTg5Yy1iMzgzLTQ2ZGEtOGFlNi04NjQ0ZGQ0NDZjNGYiLCJpYXQiOjE3NDg1MTAxODAsInN1YiI6IntcInVpZFwiOlwiNDEyNzQ3XCIsXCJjbGllbnRUeXBlXCI6XCJwY1wiLFwiY2xpZW50SWRcIjpcInBjXCIsXCJhY2Nlc3NUb2tlblwiOlwiMDA3YmI4OTA4ZDNjMzRiNTA5ZTM2YWY4NjUxZDU5ZTVcIn0iLCJleHAiOjE3NDg1NTQyODB9.XFIoPStXYDqdKUJaq9fHj8ibK-K6cmDSJ8kxIsRkFNVZvqifbyNDtM21xjT8WrqYYdik5aqnyYeaCefWDl0TQA",
+      "domain": "proex.qianqianshijie.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    }
+  ],
+  "origins": [
+    {
+      "origin": "https://proex.qianqianshijie.com",
+      "localStorage": [
+        {
+          "name": "nuxt-color-mode",
+          "value": "system"
+        }
+      ]
+    }
+  ]
+}
