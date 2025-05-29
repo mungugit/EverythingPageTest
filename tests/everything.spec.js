@@ -60,7 +60,7 @@ test.describe('ProGold Everything Token Page', () => {
   } else {
     throw new Error('"To" text not found');
   }
-  await page.getByRole('main').click();s
+  await page.getByRole('main').click();
   await expect(fromText).toBeVisible();
   await expect(toText).toBeVisible();
 });
